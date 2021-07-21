@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true);
 
         // 앱에서 표시할 url 입력
-        webView.loadUrl("https://www.google.com/");
+        webView.loadUrl("https://somoonhouse.com/kongtori/map.jsp");
         webView.setWebViewClient(new WebViewClient());
     }
 
