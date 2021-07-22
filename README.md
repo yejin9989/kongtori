@@ -45,7 +45,6 @@ public class 콩토리_웹_깃헙 {
 
 ## &#128161; 콩토리의 거긴 위허맵!	&#128161;</dt>
 ### - 경북대학교 건물 별 인구 밀집도 및 위험도 예측 서비스</dd>
-스플래시화면사진?
 <img width="300" alt="스플래시" src="https://user-images.githubusercontent.com/31399012/126704213-a77c3ec6-240c-45ec-8ce2-c4064bdb67b1.gif">
 
 우리는 학교 시설물을 이용할 때마다 QR코드로 출입 기록을 남기지만,<br>
