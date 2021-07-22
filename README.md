@@ -30,9 +30,9 @@ public class 콩토리_웹_깃헙 {
 ### *" COVID-19로 변화된 대학 생활을 개선할 수 있는 창의적이고 혁신적인 소프트웨어 자유 개발 "*
 
 <br>
-<img width="773" alt="설문조사1번문항" src="https://user-images.githubusercontent.com/52647838/126686556-674a9d29-0c6e-4c5f-a7cf-dcd9bf0cf8ac.png">
-<img width="774" alt="설문조사2번문항" src="https://user-images.githubusercontent.com/52647838/126686724-2a8c0503-835e-48bc-960c-74cb06df4078.png">
-<img width="772" alt="설문조사3번문항" src="https://user-images.githubusercontent.com/52647838/126686731-4fbe7fba-628d-4ff7-be8a-e943d57b9486.png">
+<img width="773" alt="설문조사1번문항" src="https://user-images.githubusercontent.com/52647838/126686556-674a9d29-0c6e-4c5f-a7cf-dcd9bf0cf8ac.png">
+<img width="774" alt="설문조사2번문항" src="https://user-images.githubusercontent.com/52647838/126686724-2a8c0503-835e-48bc-960c-74cb06df4078.png">
+<img width="772" alt="설문조사3번문항" src="https://user-images.githubusercontent.com/52647838/126686731-4fbe7fba-628d-4ff7-be8a-e943d57b9486.png">
 
 
 > **&#128173; 질문1**: 시험 기간이지만 코로나 때문에 학교 시설물을 이용하기 꺼려지셨나요?
@@ -53,7 +53,7 @@ public class 콩토리_웹_깃헙 {
 집에서 출발하기 전에 어느 건물에 얼마나 많은 사람이 있는지 알 수 있다면 어떨까요?<br><br>
 ### &#128171; 그렇다면 이제, 콩토리 팀의 *거긴 위허맵!* 을 사용할 때입니다!! &#128171;<br><br>
 > &#128204; 미리 혼잡도 및 위험도를 예측해 ***자발적으로 거리두기 및 코로나 감염 예방 실현 효과***<br>
-> &#128204; 시험기간 강의실이나 열람실, 식사시간 교내식당, 운동시간 체육시설 등 인파가 몰리는 시간대에 ***인구 분산화 효과***<br>
+> &#128204; 시험기간 강의실이나 열람실, 식사시간 교내식당, 운동시간 체육시설 등 인파가 몰리는 시간대에 ***인구 분산 효과***<br>
 
 ### 어떻게요?
 경북대학교 학생이라면 출입하기 위해 늘 찍는 <b>QR코드</b>를 활용해서 만들어보았습니다!<br>
@@ -63,9 +63,9 @@ public class 콩토리_웹_깃헙 {
 *이미 구축 된 인프라를 활용하여 경제성과 편리함을 동시에 챙깁니다. 이용자 또한 번거롭게 다른 절차를 밟을 필요가 없습니다.*<br><br>
 
 - 예상(평균)체류시간 경북대학교 학부생들을 대상으로 한 설문조사를 바탕으로 위험도를 계산하였습니다.
-<img width="772" alt="설문조사4번문항" src="https://user-images.githubusercontent.com/52647838/126689536-3e1c7ac3-6c82-4ac5-862f-43a51408ce68.png">
-<img width="772" alt="설문조사5번문항" src="https://user-images.githubusercontent.com/52647838/126689547-f9e22769-dc80-4796-afea-a42b9b2b50a3.png">
-<img width="772" alt="설문조사6번문항" src="https://user-images.githubusercontent.com/52647838/126689557-bb544570-e092-4bde-b7e0-42d2aef69ca4.png">
+<img width="772" alt="설문조사4번문항" src="https://user-images.githubusercontent.com/52647838/126689536-3e1c7ac3-6c82-4ac5-862f-43a51408ce68.png">
+<img width="772" alt="설문조사5번문항" src="https://user-images.githubusercontent.com/52647838/126689547-f9e22769-dc80-4796-afea-a42b9b2b50a3.png">
+<img width="772" alt="설문조사6번문항" src="https://user-images.githubusercontent.com/52647838/126689557-bb544570-e092-4bde-b7e0-42d2aef69ca4.png">
 
 - 수학과 + 통계학과 학부생의 자문을 받아 위험도를 계산하였습니다.<br>
     → 전문가의 자문을 구하여 더욱 더 정확한 위험도 계산이 가능합니다.<br>
