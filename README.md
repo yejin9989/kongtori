@@ -74,6 +74,7 @@ public class 콩토리_웹_깃헙 {
 3. 학교 시설물별 평균적인 인구 밀집도 및 위험도 정보 제공 기능
 4. 지도 내 검색 기능
 5. 내 위치 기반 서비스 
-지도 사진 첨부
-모달창 사진 첨부
-위험도 설명창 사진 첨부
+<img width="429" alt="ScreenShot1" src="https://user-images.githubusercontent.com/52647838/126701392-b716918e-26be-4d42-ad84-83e4b203b210.png">
+<img width="429" alt="ScreenShot2" src="https://user-images.githubusercontent.com/52647838/126701399-4ac82fec-142d-45b1-8000-53c344ff143d.png">
+<img width="429" alt="ScreenShot3" src="https://user-images.githubusercontent.com/52647838/126701406-02cbb59c-d98b-4c73-9705-fc9fa45d52e6.png">
+
