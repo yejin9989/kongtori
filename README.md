@@ -2,7 +2,12 @@
 > ### **콩토리 팀**
 > #### 컴퓨터학부 4학년 땅콩(이예진), 컴퓨터학부 4학년 도토리(곽유진)
 
-
+> ##시연영상
+<a href="https://youtu.be/eAaZ9AcyIqc">https://youtu.be/eAaZ9AcyIqc</a>
+> ##콩토리팀 웹 구현용 깃헙
+<a href="https://github.com/yejin9989/kongtori_web.git">https://github.com/yejin9989/kongtori_web.git</a>
+> ##노션(협업용 툴) 링크
+<a href="https://milkymoon.notion.site/380b78020f1442269d2da91af206422b">https://milkymoon.notion.site/380b78020f1442269d2da91af206422b</a>
 ~~~java
 public class 시연_영상 {
   public static void main(String[] args) {
