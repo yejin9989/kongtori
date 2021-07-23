@@ -115,12 +115,16 @@ public class 콩토리_웹_깃헙 {
 
 ## 콩토리의 거긴 위허맵! 사용 방법 두가지 &#10071; &#10071;
 
-***현재 학생들의 QR코드 출입 데이터는 https://www.somoonhouse.com/kongtori/_access_automation.jsp 에서 자동, 랜덤으로 생성해주고 있습니다. [링크](https://www.somoonhouse.com/kongtori/_access_automation.jsp) 로 이동해 랜덤 데이터를 생성해주세요.***<br>
+***현재 학생들의 QR코드 출입 데이터는*** <br>
+***https://www.somoonhouse.com/kongtori/_access_automation.jsp 에서 자동, 랜덤으로 생성해주고 있습니다.*** <br>
+***위험도 또한 현재 시간을 기준으로 인구 밀집도 및 위험도를 계산하므로,*** <br>
+***먼저 [링크](https://www.somoonhouse.com/kongtori/_access_automation.jsp) 로 이동해 랜덤 데이터를 생성해주세요.***<br>
 + 안드로이드용 apk 사용
   1. https://github.com/yejin9989/kongtori/tree/master/app/release 의 [app-release.apk](https://github.com/yejin9989/kongtori/tree/master/app/release) 를 다운받는다.
   2. 안드로이드 핸드폰이나 에뮬레이터에서 거긴 위허맵을 설치한다.
 + web으로 접속
   1. https://www.somoonhouse.com/kongtori/map.jsp 로 접속해 기능을 살펴본다.
+
 
 
 <br><br><br>
