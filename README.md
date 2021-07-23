@@ -11,7 +11,7 @@
 ~~~java
 public class 시연_영상 {
   public static void main(String[] args) {
-    System.out.println("리이이잉크으으으");
+    System.out.println("https://youtu.be/eAaZ9AcyIqc");
   }
 }
 ~~~
