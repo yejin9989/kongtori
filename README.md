@@ -94,7 +94,9 @@ public class 콩토리_웹_깃헙 {
 ### 장점
 1. 기존에 사용하는 QR코드 시스템을 이용해 경제성과 편리성을 높임
 2. 이용자 또한 번거롭게 다른 절차를 밟을 필요가 없음
-3. 이용자 스스로 건강을 지킬 수 있음
+3. 웹-앱 모두 사용 가능해 편리함
+4. DB에서 실시간으로 위험 예측도 정보를 제공받음
+5. 이용자 스스로 건강을 지킬 수 있음
 
 ### 기대 효과
 1. 자발적 거리두기
@@ -109,11 +111,20 @@ public class 콩토리_웹_깃헙 {
 3. 교내 확진자 수 및 동선 안내 기능 추가 예정!
 
 ***
+<br>
 
 ## 콩토리의 거긴 위허맵! 사용 방법 두가지 &#10071; &#10071;
-+ 안드로이드용 apk 설치
-> 1. apk 주소 
 
+***현재 학생들의 QR코드 출입 데이터는 https://www.somoonhouse.com/kongtori/_access_automation.jsp 에서 자동, 랜덤으로 생성해주고 있습니다. [링크](https://www.somoonhouse.com/kongtori/_access_automation.jsp) 로 이동해 랜덤 데이터를 생성해주세요.***<br>
++ 안드로이드용 apk 사용
+  1. https://github.com/yejin9989/kongtori/tree/master/app/release 의 [app-release.apk](https://github.com/yejin9989/kongtori/tree/master/app/release) 를 다운받는다.
+  2. 안드로이드 핸드폰이나 에뮬레이터에서 거긴 위허맵을 설치한다.
 + web으로 접속
-> 1. www.somoonhouse.com/kongtori/map.jsp 접속
+  1. https://www.somoonhouse.com/kongtori/map.jsp 로 접속해 기능을 살펴본다.
+
+
+<br><br><br>
+
+##	&#128583; 읽어주셔서 감사합니다! 	&#128583;
+
 
